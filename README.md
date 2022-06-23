@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dcselek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcselek" height="30" width="40" /></a>
+<a href="https://twitter.com/dcselekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcselek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dogancan-selek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogancan-selek" height="30" width="40" /></a>
 <a href="https://instagram.com/dcselek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dcselek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCONrx2iXVmcbw4Gs4V8z2wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="versionedu" height="30" width="40" /></a>
