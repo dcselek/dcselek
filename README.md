@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcselek&label=Profile%20views&color=ad03fc&style=plastic" alt="dcselek" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dcselek" target="blank"><img src="https://img.shields.io/twitter/follow/dcselek?logo=twitter&style=for-the-badge" alt="dcselek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dcselekk" target="blank"><img src="https://img.shields.io/twitter/follow/dcselek?logo=twitter&style=for-the-badge" alt="dcselek" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
